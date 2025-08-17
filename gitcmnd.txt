@@ -1,0 +1,7 @@
+git init
+git status
+git add <filename>
+git add .
+git commit -m "<enter the comments>
+git restore <filename>
+
