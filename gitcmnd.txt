@@ -5,3 +5,10 @@ git add .
 git commit -m "<enter the comments>
 git restore <filename>
 
+git remote add origin <URL of repo>
+git remote set-url origin <token@github.com /repo-url>
+git remote -v
+git push -u origin master
+git --version
+git clone <repo-url>
+history 
